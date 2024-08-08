@@ -1,0 +1,15 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Meu primeiro Site center</title>
+</head>
+
+<body>
+<h1>Seja bem-vindo ao meu site!</h1>
+<img src="gato.gif" width="50%">
+<p>Esse é meu animal favorito.</p>
+
+</body>
+
+</html>
